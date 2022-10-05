@@ -65,7 +65,7 @@
 //  IN&OUTPUT + egyéb stringek
 #define beolvas scanf
 #define kiír printf
-#define sortörés "\n"
+#define sortörés \n
 #define egészÚjSor "%d\n"
 
 //  SZERKEZET
